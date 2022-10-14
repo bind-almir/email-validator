@@ -1,6 +1,6 @@
 {
-  "name": "email-validator",
-  "version": "1.0.0",
+  "name": "email-validator-temp",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
